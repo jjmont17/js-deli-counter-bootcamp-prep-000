@@ -1,8 +1,13 @@
 var katzDeliLine = [];
 
-function takeANumber(katzDeliLine, person)
+function takeANumber(katzDeliLine, ticketNumber, nextTicket)
 {
-  katzDeliLine.push(person);
+    ticketNumber = 1;
+    nextTicket = ticketNumber + 1;
+    nextTicket.push()
+    
+  }
+  katzDeliLine.push(number);
   return ('Welcome, ' + person +'. You are number ' + katzDeliLine.length + ' in line.');
 }
 
