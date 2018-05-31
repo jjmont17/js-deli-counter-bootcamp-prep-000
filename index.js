@@ -1,10 +1,14 @@
 var katzDeliLine = [];
+var ticketNumber = 0;
 
 function takeANumber(katzDeliLine, ticketNumber, nextTicket)
 {
-    ticketNumber = 1;
+    
+    if (ticketNumber++;
+  
     nextTicket = ticketNumber + 1;
-    nextTicket.push()
+    katzDeliLine.push(nextTicket);
+    
     
   }
   katzDeliLine.push(number);
